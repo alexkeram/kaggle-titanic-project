@@ -5,15 +5,6 @@
 Build a classification model to predict which passengers survived the Titanic shipwreck using demographic and travel information.  
 This project is part of the Kaggle competition "Titanic: Machine Learning from Disaster".
 
-## Project Structure
-
-kaggle_titanic_project/
-├── data/ # Original and processed datasets
-├── notebooks/ # Jupyter Notebooks for EDA and modeling
-├── models/ # Trained models
-├── outputs/ # Submissions and evaluation results
-└── README.md # Project documentation and planning
-
 
 ## Dataset Overview
 
