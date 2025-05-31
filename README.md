@@ -21,10 +21,10 @@ Main features:
 ## Roadmap
 
 - [x] Create project folders
-- [ ] Download and inspect data
-- [ ] Perform EDA and visualize features
-- [ ] Clean and preprocess data
-- [ ] Build baseline model
-- [ ] Evaluate and tune model
-- [ ] Submit predictions to Kaggle
+- [x] Download and inspect data
+- [x] Perform EDA and visualize features
+- [x] Clean and preprocess data
+- [x] Build baseline model
+- [x] Evaluate and tune model
+- [x] Submit predictions to Kaggle
 - [ ] Analyze leaderboard results
