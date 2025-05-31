@@ -28,3 +28,5 @@ Main features:
 - [x] Evaluate and tune model
 - [x] Submit predictions to Kaggle
 - [ ] Analyze leaderboard results
+
+First result Score: 0.77511 
