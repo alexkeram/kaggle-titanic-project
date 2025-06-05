@@ -29,4 +29,4 @@ Main features:
 - [x] Submit predictions to Kaggle
 - [ ] Analyze leaderboard results
 
-First result Score: 0.77511 
+First result Score: 0.77511
